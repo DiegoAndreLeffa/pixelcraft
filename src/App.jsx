@@ -2,10 +2,10 @@ import React from "react";
 import styled, { createGlobalStyle } from "styled-components";
 import { motion } from "framer-motion";
 
-import bg from "/src/assets/bg.png";
-import cheffacil1 from "/src/assets/Cheffacilescuro.png";
-import cheffacil2 from "/src/assets/Cheffacilclaro.png";
-import glowbottle from "/src/assets/glowbottle.png";
+import bg from "./assets/bg.png";
+import cheffacil1 from "./assets/Cheffacilescuro.png";
+import cheffacil2 from "./assets/Cheffacilclaro.png";
+import glowbottle from "./assets/glowbottle.png";
 
 const GlobalStyle = createGlobalStyle`
   * {
