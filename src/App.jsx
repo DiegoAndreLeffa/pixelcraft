@@ -3,8 +3,8 @@ import styled, { createGlobalStyle } from "styled-components";
 import { motion } from "framer-motion";
 
 import bg from "./assets/bg.png";
-import cheffacil1 from "./assets/cheffacil-escuro.png";
-import cheffacil2 from "./assets/cheffacil-claro.png";
+import cheffacil1 from "./assets/cheffacilescuro.png";
+import cheffacil2 from "./assets/cheffacilclaro.png";
 import glowbottle from "./assets/glowbottle.png";
 
 const GlobalStyle = createGlobalStyle`
